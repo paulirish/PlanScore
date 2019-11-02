@@ -21,7 +21,7 @@ setup(
         'boto3 == 1.4.4',
         'itsdangerous == 0.24',
         'ModestMaps == 1.4.7',
-        'Flask == 0.12.2',
+        'Flask == 1.0',
         'Jinja2 == 2.9.6',
         'Frozen-Flask == 0.14',
         'Markdown == 2.6.8',
